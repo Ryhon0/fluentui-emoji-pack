@@ -114,3 +114,5 @@ __pycache__
 # project
 svgs/
 build/
+
+pack/
